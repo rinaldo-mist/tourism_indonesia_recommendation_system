@@ -1,6 +1,6 @@
 # Tourism Indonesia Recommendation System
 
-## Intro
+## Introduction
 Indonesia has many beautiful tourism spots, yet these recent years are tough especially to tourism business due to pandemic. Recently the pandemic has calmed down and business starts to run again. But it still needs time to recover.
 
 The project is about to recommend the tourism spots, based on provided dataset. In this case, we are using spots in Java's island. Using several method of data science, perhaps, this project can help us by recommend tourism spots to the users.
@@ -10,6 +10,13 @@ The datasets contains several tourist attractions in 5 major cities in Indonesia
 The dataset is provided publicly from https://www.kaggle.com/datasets/aprabowo/indonesia-tourism-destination
 
 ## Model Conclusion
+There are several models included here, there are : Random Forest Regressor, SVD and KNNBasic. Random Forest Regressor is a technique which works in regression, while SVD and KNNBasic are techniques which usually used in recommender system.
+###Random Forest
+Kombinasi dari Decision Tree yang digabungkan menjadi suatu model dan bersifat robust.
+###SVD
+Teknik untuk dekomposisi matriks data berukuran apa saja yang biasa digunakan dalam teknik rekomendasi.
+###KNNBasic
+Teknik untuk 
 The recommendation system has SVD model as it's best available recommendation system model.
 
 ## Disclaimer
