@@ -12,14 +12,11 @@ The dataset is provided publicly from https://www.kaggle.com/datasets/aprabowo/i
 ## Model Conclusion
 There are several models included here, there are : Random Forest Regressor, SVD and KNNBasic. Random Forest Regressor is a technique which works in regression, while SVD and KNNBasic are techniques which usually used in recommender system.
 
-###Random Forest
-Kombinasi dari Decision Tree yang digabungkan menjadi suatu model dan bersifat robust.
+- Random Forest : Combination of Decision Tree which combined into a single model. This tmodel is known for it's ability to handle more robust data as well.
 
-###SVD
-Teknik untuk dekomposisi matriks data berukuran apa saja yang biasa digunakan dalam teknik rekomendasi.
+- SVD : A technique to decompose data matrix with any size, and this technique usually used for recommendation system.
 
-###KNNBasic
-Teknik untuk 
+- KNNBasic : A technique that used widely to define recommendation model system
 
 The recommendation system has SVD model as it's best available recommendation system model.
 
